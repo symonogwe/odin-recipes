@@ -1,0 +1,21 @@
+.heading {
+    text-align: center;
+    
+}
+
+.injera {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    border-radius: 15%;
+    height: auto;
+    width: 300px;
+}
+
+body {
+    background-color: gray;
+}
+p {
+    font-size: larger;
+}
