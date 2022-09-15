@@ -1,17 +1,22 @@
-.header {
+.heading {
     text-align: center;
-    color: orange;
+    color: black;
     text-decoration: wavy;
     font-weight: bold;
+    background-color: tan;
+    width: fit-content;
+    margin-left: 45%;
 }
 
-h1:hover {
-    background-color: black;
-}
 
 .menu-pic {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    border-radius: 15px;
+}
+
+body {
+    background-color: orange;
 }
