@@ -1,0 +1,17 @@
+.header {
+    text-align: center;
+    color: orange;
+    text-decoration: wavy;
+    font-weight: bold;
+}
+
+h1:hover {
+    background-color: black;
+}
+
+.menu-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
